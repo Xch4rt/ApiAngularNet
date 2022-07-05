@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bsPtG/TbI7NhyJl5K4oS5PaSmBc+EGJfWVP/Y2/d+7eVZ/HFfWgupk8m6nZt+5uCJiHPYM2zPgdE6amObilhxQ==",
+  "success": true,
+  "projectFilePath": "E:\\Nuevo Usuario\\Documents\\Proyectos\\WebAPI\\WEBAPI1\\WEBAPI1\\WEBAPI1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nuevo Usuario\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.17\\microsoft.aspnetcore.jsonpatch.5.0.17.nupkg.sha512",
+    "C:\\Users\\Nuevo Usuario\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.17\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.17.nupkg.sha512",
+    "C:\\Users\\Nuevo Usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nuevo Usuario\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Nuevo Usuario\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Nuevo Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
